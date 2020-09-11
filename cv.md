@@ -19,9 +19,9 @@ Located in **Zhlobin, Belarus**
 
 ## Experience ##
 
-## Education ##
-**SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL** (2010-2015), Automation and Information Systems Faculty, Information Systems a Technologies (in Design and Manufacture), software engineer
-**The Rolling Scopes School**, RSS React 2020 Q1 (JavaScript), https://app.rs.school/certificate/snyt42z9
+## Education ## 
+* **SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL** (2010-2015), Automation and Information Systems Faculty, Information Systems a Technologies (in Design and Manufacture), software engineer
+* **The Rolling Scopes School**, RSS React 2020 Q1 (JavaScript), https://app.rs.school/certificate/snyt42z9
 
 ## English ##
 Pre-Intermediate
