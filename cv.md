@@ -8,7 +8,7 @@
 * **[GitHub](https://github.com/DmitryAstapenko)**
 
 ## Summary
-Software Engineer with 8 years of experience in developing and maintaining systems for managing production processes and reporting. For the past 4 years, I have been working with Oracle APEX, PL/SQL, SQL, JavaScript, HTML, and CSS, and I have experience using Git. I am currently developing skills in modern frontend and backend technologies.
+Software Engineer experienced in developing and maintaining systems for managing production processes and reporting. Skilled in Oracle APEX, PL/SQL, SQL, JavaScript, HTML, CSS, and experienced with Git. Currently developing skills in modern frontend and backend technologies.
 
 ## Skills
 * Oracle Application Express
